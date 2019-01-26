@@ -1,4 +1,5 @@
-## Objectives
+class Show < ActiveRecord::Base
+end ## Objectives
 
 1. Create a table using ActiveRecord.
 2. Use Active Record's querying methods.
